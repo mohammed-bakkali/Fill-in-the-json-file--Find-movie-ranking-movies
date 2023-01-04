@@ -1,0 +1,11 @@
+body{
+    background-image: url('images/Movies-background.png');
+    background-size: cover;
+    height: 100vh;
+    /* list-style: none; */
+  }
+
+img{
+  width: 250px;
+  /* height: 364px; */
+}

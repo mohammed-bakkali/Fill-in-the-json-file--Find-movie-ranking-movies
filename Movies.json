@@ -1,0 +1,238 @@
+[
+    {
+        "url": "images/student.jpg ",
+        "title": "Student of the Year 2",
+        "duration": "150 minutes",
+        "year": "2019",
+        "director": "Punit Malhotra",
+        
+        "festivals": [ "Golden Globes (USA)" , "Hugo Awards"],
+            
+        "actors": [ 
+            {
+                "name": "Tiger Shroff",
+                "Age": "32",
+                "nationality": "India"
+            }
+        
+        ]
+        
+        
+    },
+    {
+        
+        "url": "images/The_Next_365_Days.png ",
+        "title": "365 day",
+        "duration": "150 minutes",
+        "year": "2020",
+        "director": "Barbara Bialwas And Thomas Mandes",
+        
+        
+        "festivals": [
+    
+            "National Board of Review",
+            "Golden Globes (USA)",
+            "Hugo Awards"
+        ],
+        "actors": [
+            {
+                "name": "Michele Morrone",
+                "Age": "32",
+                "nationality": "Italian"
+            },
+            {
+                "name": "Anna-Maria Sieklucka",
+                "Age": "30",
+                "nationality": "Polish"
+            }
+        ]
+    },
+    
+    {
+
+        "url": "images/Joker.jpg ",
+        "title": "Joker",
+        "duration": "2h",
+        "year": "2019",
+        "director": "Todd Phillips",
+        
+        "festivals": [
+            "Hugo Awards"
+        ],
+        
+        "actors": [
+            
+            {
+                "name": "Joaquin Phoenix",
+                "Age": "84",
+                "nationality": "American"
+            },
+            {
+                "name": "Zazie Beetz",
+                "Age": "31",
+                "nationality": "American, German"
+            }
+        ]
+    },
+
+    {
+        "url": "images/zero.jpg ",
+        "title": "Zero",
+        "duration": "164 minutes",
+        "year": "2018",
+        "director": "Aanand L. Rai",
+        
+        "festivals": [
+            "Academy Awards"
+        ],
+
+        "actors": [
+            {
+                "name": "Shah Rukh Khan",
+                "Age": "57",
+                "nationality": "India"
+            },
+            {
+                "name": "Anushka Sharma",
+                "Age": "34",
+                "nationality": "India"
+            },
+            {
+                "name": "Katrina Kaif",
+                "Age": "39",
+                "nationality": "India"
+            }
+        ]
+        
+    },
+    {
+        "url": "images/Carter.jpg ",
+        "title": "Carter",
+        "duration": "2h minutes",
+        "year": "2022",
+        "director": "Jeong Byeong-gil",
+        
+        "festivals": [
+            "Academy Awards", "National Board of Review", "Hugo Awards", "Golden Globes (USA)"
+        ],
+
+        "actors": [
+            {
+                "name": "Joo Won",
+                "Age": "35",
+                "nationality": "South Korea"
+            },
+            {
+                "name": "Camilla Belle",
+                "Age": "36",
+                "nationality": "American"
+            },
+            {
+                "name": "Jeong So-ri",
+                "Age": "40",
+                "nationality": "South Korea"
+            }
+        ]
+        
+    },
+    {
+        "url": "images/Gril.jpg ",
+        "title": "All the Bright Places",
+        "duration": "1h 48minutes",
+        "year": "2020",
+        "director": "Brett Haley",
+        
+        "festivals": [ "Golden Globes (USA)" , "Hugo Awards"],
+            
+        "actors": [ 
+            {
+                "name": "Mila Kunis",
+                "Age": "39",
+                "nationality": "Ukrainian"
+            }
+        
+        ]
+        
+        
+    },
+    {
+        "url": "images/man.jpg ",
+        "title": "The Man from Toronto",
+        "duration": "150 minutes",
+        "year":  "2022",
+        "director": "Patrick Hughes",
+        
+        "festivals": [ "Golden Globes (USA)" , "Hugo Awards"],
+            
+        "actors": [ 
+            {
+                "name": "Kevin Hart", 
+                "Age": "43 ",
+                "nationality": "American"
+            }
+        
+        ]
+    },
+    {
+        "url": "images/Extraction.jpg ",
+        "title": "Extraction",
+        "duration": "1h 56minutes",
+        "year": "2020",
+        "director": "Sam Hargrave",
+        
+        "festivals": [ "Golden Globes (USA)" , "Hugo Awards"],
+            
+        "actors": [ 
+            {
+                "name": "Chris Hemsworth",
+                "Age": "39",
+                "nationality": "American"
+            }
+        
+        ]
+    },
+    {
+        "url": "images/Silenge.jpg ",
+        "title": "The Silence",
+        "duration": "1h 30minutes",
+        "year": "2019",
+        "director": " John R. Leonetti",
+        
+        "festivals": [ "Golden Globes (USA)" , "Hugo Awards"],
+            
+        "actors": [ 
+            {
+                "name": "Kiernan Shipka",
+                "Age": "23 ",
+                "nationality": "American"
+            },
+            {
+                "name": "Stanley Tucci",
+                "Age": "62",
+                "nationality": "American"
+            }
+        ]
+    },
+    {
+        "url": "images/salt.jpg ",
+        "title": "Salt",
+        "duration": "1h 44minutes",
+        "year": "2010",
+        "director": " Phillip Noyce",
+        
+        "festivals": [ "Golden Globes (USA)" , "Hugo Awards"],
+            
+        "actors": [ 
+            {
+                "name": "Angelina Jolie",
+                "Age": "40 ",
+                "nationality": "American"
+            },
+            {
+                "name": "Liev Schreiber",
+                "Age": "55",
+                "nationality": "American"
+            }
+    ] 
+}
+]
