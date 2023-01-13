@@ -57,7 +57,7 @@ function searchData(){
   let actorsList = ''; 
   for (let i = 0; i < jsData.length; i++) {
     searchResults.push(jsData[i]);
-    if (jsData[i].title.toLocaleUpperCase().includes(inp.value.toLocaleUpperCase())) { // == true
+    if (jsData[i].title.toLocaleUpperCase().startsWith(inp.value.toLocaleUpperCase())) { // == true
       // searchResults.push(jsData[i]);   // add data to array
       actorsList = "";
       for (let k = 0; k < jsData[i].actors.length; k++) {   
